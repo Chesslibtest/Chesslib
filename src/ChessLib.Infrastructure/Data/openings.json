@@ -1,0 +1,19 @@
+[
+  {
+    "Id": "550e8400-e29b-41d4-a716-446655440000",
+    "Name": "Sicilian Defense",
+    "EcoCode": "B20",
+    "Description": "Sharp and popular response to 1. e4",
+    "Moves": "e4 c5",
+    "CurrentFen": "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq c6 0 2",
+    "Variants": [
+      {
+        "Id": "660e8400-e29b-41d4-a716-446655441111",
+        "Name": "Najdorf Variation",
+        "Moves": "e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6",
+        "TargetFen": "rnbqkb1r/1p2pppp/p2p1n2/8/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq - 0 6",
+        "Description": "The Najdorf is the 'Cadillac' of chess openings."
+      }
+    ]
+  }
+]

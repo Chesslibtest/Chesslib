@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ChessLib.Application/ChessLib.Application.csproj" />
+    <Project Path="src/ChessLib.Domain/ChessLib.Domain.csproj" />
+    <Project Path="src/ChessLib.Infrastructure/ChessLib.Infrastructure.csproj" />
+    <Project Path="src/ChessLib.WebAPI/ChessLib.WebAPI.csproj" />
+  </Folder>
+</Solution>
